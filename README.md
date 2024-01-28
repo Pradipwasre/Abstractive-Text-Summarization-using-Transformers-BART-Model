@@ -3,6 +3,7 @@ Deep Learning Project to implement an Abstractive Text Summarizer using Google's
 
 # Project Description
 
+
 ## Introduction to Text Summarization using Transformers
 
 Summarization has closely been and continues to be a hot research topic in the data science arena. Summarization is a technique that reduces the size of a document while preserving its meaning. It is one of the most researched areas among the Natural Language Processing (NLP) community.
